@@ -9,7 +9,7 @@
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@drawable/home_img"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/home_img"
+        android:roundIcon="@mipmap/round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Ethioware"
         tools:targetApi="31">
